@@ -1,2 +1,2 @@
-# MeuPrimeiroRepositorio
-Primeiro repositório aqui do GitHub
+# Primeiro repositório
+Repositório relativo ao desafio do bootcamp da DIO
