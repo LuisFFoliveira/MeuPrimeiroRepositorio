@@ -1,2 +1,2 @@
 # Primeiro repositório
-Repositório relativo ao desafio do bootcamp da DIO
+Repositório de aprendizado de git para o bootcamp DIO
